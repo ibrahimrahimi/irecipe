@@ -1,0 +1,28 @@
+{
+  "name": "irecipe",
+  "version": "1.0.0",
+  "description": "This is a simple web application for listing all recipes and add them to different list.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahimrahimi/irecipe.git"
+  },
+  "keywords": [
+    "irecipe",
+    "JavaScript"
+  ],
+  "author": "Ibrahim Rahimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibrahimrahimi/irecipe/issues"
+  },
+  "homepage": "https://github.com/ibrahimrahimi/irecipe#readme",
+  "devDependencies": {
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
