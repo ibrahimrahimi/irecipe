@@ -41,7 +41,7 @@ body {
 
 .btn, .btn-small, .btn-small:link, .btn-small:visited {
     background-image: linear-gradient(to right bottom, #b7c5c5, #457b9d);
-    border-radius: 10rem;
+    border-radius: 1rem;
     border: none;
     text-transform: uppercase;
     color: #fff;
@@ -93,7 +93,7 @@ body {
     border: none;
     background-color: #F9F5F3;
     padding: .8rem 1.2rem;
-    border-radius: 10rem;
+    border-radius: 1rem;
     cursor: pointer;
     display: flex;
     align-items: center;
@@ -112,7 +112,7 @@ body {
 }
 
 .btn-inline:hover {
-    color: #F48982;
+    color: #457b9d;
     background-color: #F2EFEE;
 }
 
